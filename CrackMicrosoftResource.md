@@ -38,7 +38,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  |  |
 | [Find all Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  |  |
 | [Find maximum single sell profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |  |  |
-| [Missing Number](https://leetcode.com/problems/missing-number/)  |  |  |
+| [Missing Number](https://leetcode.com/problems/missing-number/)  |Done  |Easy  |
 
 
 ---
